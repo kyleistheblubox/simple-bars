@@ -34,5 +34,5 @@ Lastly, don’t forget to include the JS, simply add the below to your file, or 
 ```HTML
 <script src='./js/radials.js'></script>
 ```
-
+For a live demo goto <a href='http://www.kyleschneiderman.com/examples/radials/'>http://www.kyleschneiderman.com/examples/radials/</a>. 
 Thanks for checking out this plugin and check back in the future for further development!
